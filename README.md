@@ -19,4 +19,4 @@
 https://github.com/erdiirden/Unity_Forma_Secme_Sahnesi/assets/113932351/36b318c2-8ff0-4425-a67f-e72b321caf15
 
 
-*Proje içinde takımların forma material ve texture ları gizlenmiştir
+*Proje içinde takımların forma material ve texture ları gizlenmiştir. Diğer formaları oyun sahnesine ve script alanlarına sürükleyerek projeyi çalıştırabilirsiniz.
